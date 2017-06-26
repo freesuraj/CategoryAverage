@@ -1,5 +1,5 @@
 //
-//  Constant.swift
+//  Config.swift
 //  CategoryAverage
 //
 //  Created by Suraj Pathak on 26/6/17.
@@ -8,7 +8,8 @@
 
 import Foundation
 
-struct Constant {
+struct Config {
     static let baseUrl = "http://wp8m3he1wt.s3-website-ap-southeast-2.amazonaws.com"
     static let firstPage = "/api/products/1"
+    static let categoryType = "Air Conditioners"
 }

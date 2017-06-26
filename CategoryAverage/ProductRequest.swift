@@ -17,7 +17,7 @@ struct ProductRequest: NetworkRequest {
     var headers: [String: String] = [:]
     
     init?(pageUrl: String) {
-        guard let url = URL(string: Constant.baseUrl + pageUrl) else { return nil }
+        guard let url = URL(string: Config.baseUrl + pageUrl) else { return nil }
         self.url = url
     }
     

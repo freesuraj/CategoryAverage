@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var averageLabel: UILabel!
     
     var spinner: UIActivityIndicatorView!
-    let categoryType: String = "Air Conditioners"
+    let categoryType: String = Config.categoryType
 
     var processedItems: [Product]! {
         didSet {
@@ -44,7 +44,7 @@ class ViewController: UIViewController {
     
     func reload() {
         processedItems = []
-        let firstPage = Constant.firstPage
+        let firstPage = Config.firstPage
         readProducts(categoryName: self.categoryType, page: firstPage)
     }
     
