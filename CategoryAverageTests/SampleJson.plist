@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Page</key>
+	<dict>
+		<key>normal</key>
+		<string>{&quot;objects&quot;:[{&quot;category&quot;:&quot;Gadgets&quot;,&quot;title&quot;:&quot;10 Pack Family Car Sticker Decals&quot;,&quot;weight&quot;:120,&quot;size&quot;:{&quot;width&quot;:15,&quot;length&quot;:13,&quot;height&quot;:1}},{&quot;category&quot;:&quot;Air Conditioners&quot;,&quot;title&quot;:&quot;Window Seal for Portable Air Conditioner Outlets&quot;,&quot;weight&quot;:235,&quot;size&quot;:{&quot;width&quot;:26,&quot;length&quot;:26,&quot;height&quot;:5}},{&quot;category&quot;:&quot;Batteries&quot;,&quot;title&quot;:&quot;10 Pack Kogan CR2032 3V Button Cell Battery&quot;,&quot;weight&quot;:60,&quot;size&quot;:{&quot;width&quot;:5.8,&quot;length&quot;:19,&quot;height&quot;:0.3}},{&quot;category&quot;:&quot;Cables &amp; Adapters&quot;,&quot;title&quot;:&quot;3 Pack Apple MFI Certified Lightning to USB Cable (3m)&quot;,&quot;weight&quot;:90,&quot;size&quot;:{&quot;width&quot;:10,&quot;length&quot;:20,&quot;height&quot;:3}},{&quot;category&quot;:&quot;Air Conditioners&quot;,&quot;title&quot;:&quot;Kogan 10,000 BTU Portable Air Conditioner (2.9KW)&quot;,&quot;weight&quot;:26200,&quot;size&quot;:{&quot;width&quot;:49.6,&quot;length&quot;:38.7,&quot;height&quot;:89}}],&quot;next&quot;:&quot;/api/products/2&quot;}</string>
+		<key>invalid</key>
+		<string>{&quot;objects&quot;:null,&quot;next&quot;:null}</string>
+	</dict>
+	<key>Product</key>
+	<dict>
+		<key>normal</key>
+		<string>{&quot;category&quot;:&quot;Air Conditioners&quot;,&quot;title&quot;:&quot;Window Seal for Portable Air Conditioner Outlets&quot;,&quot;weight&quot;:235,&quot;size&quot;:{&quot;width&quot;:26,&quot;length&quot;:26,&quot;height&quot;:5}}</string>
+		<key>invalid</key>
+		<string>{&quot;category&quot;:&quot;Air Conditioners&quot;,&quot;title&quot;:&quot;Window Seal for Portable Air Conditioner Outlets&quot;,&quot;weight&quot;:null,&quot;size&quot;:{&quot;width&quot;:26,&quot;length&quot;:26,&quot;height&quot;:5}}</string>
+	</dict>
+</dict>
+</plist>
