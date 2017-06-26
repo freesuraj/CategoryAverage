@@ -2,7 +2,6 @@
 
 Calculates the average cubic weight of products
 
-
 #### Installation
 
 Best way to run is to use `XCode` in Mac OSx.
@@ -27,3 +26,6 @@ Configurable parameters:
 All the major source files are tested. To run the test in XCode, use the command `Command+U`
 
 #### Screenshots
+![screenshot](https://github.com/freesuraj/CategoryAverage/blob/master/screens/test.png?raw=true)
+![screenshot](https://github.com/freesuraj/CategoryAverage/blob/master/screens/processing.png?raw=true)
+![screenshot](https://github.com/freesuraj/CategoryAverage/blob/master/screens/processed.png?raw=true)
